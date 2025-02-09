@@ -193,7 +193,7 @@ text-transform: uppercase;
 color: #4d5ae5;
 }
 .logo-style-footer {
-  font-family: "Raleway";
+  font-family: "Raleway", sans-serif;
   color: #f4f4fd;
 }
 .footer-txt {
